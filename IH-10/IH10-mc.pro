@@ -1,0 +1,24 @@
+update=Thu 03 Dec 2015 12:43:02 PM EST
+last_client=pcbnew
+[pcbnew]
+version=1
+PageLayoutDescrFile=
+LastNetListRead=
+UseCmpFile=0
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=10.16
+PadSizeV=2.3876
+PcbTextSizeV=1.5
+PcbTextSizeH=1.5
+PcbTextThickness=0.3
+ModuleTextSizeV=1
+ModuleTextSizeH=1
+ModuleTextSizeThickness=0.15
+SolderMaskClearance=0
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.2
+BoardOutlineThickness=0.09999999999999999
+ModuleOutlineThickness=0.15
+[pcbnew/libraries]
+LibDir=

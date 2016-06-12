@@ -1,0 +1,2548 @@
+PCBNEW-LibModule-V1  Sat 05 Sep 2015 05:59:06 AM EDT
+# encoding utf-8
+Units mm
+$INDEX
+DPAKGDS-TV
+DPAKGDS-TV-Q1
+DPAKGDS-TV-SL
+DPAKGDS-TV-SL-Q1
+DPAKGDS-TVS
+DPAKGDS-TVS-Q1
+DPAKGDS-TVSM
+DPAKGDS-TVSM-Q1
+DPAKGDS-TVSM-Q2
+$EndINDEX
+$MODULE DPAKGDS-TV
+Po 0 0 0 15 5595A9B5 00000000 ~~
+Li DPAKGDS-TV
+Kw CMS DPACK
+Sc 0
+AR /52DDB130
+Op 0 0 0
+.ZoneConnection 2
+T0 -0.127 -15.748 1.27 1.27 900 0.1524 N V 21 N "Q"
+T1 0 -3.302 1.27 1.27 0 0.1524 N I 21 N "MOSFET_N"
+DS 5.715 -14.351 5.715 -2.413 0.127 21
+DS 5.715 -2.413 -5.715 -2.413 0.127 21
+DS -5.715 -2.413 -5.715 -14.351 0.127 21
+DS -5.715 -14.351 5.715 -14.351 0.127 21
+DS -1.27 -2.413 -1.27 1.905 0.127 21
+DS -1.27 1.905 -3.81 1.905 0.127 21
+DS -3.81 1.905 -3.81 -2.413 0.127 21
+DS 3.81 -2.413 3.81 1.905 0.127 21
+DS 3.81 1.905 1.27 1.905 0.127 21
+DS 1.27 1.905 1.27 -2.413 0.127 21
+$PAD
+Sh "D" R 10.668 8.89 0 0 0
+Dr 0.3048 0 0
+At STD N 00A0FFFF
+Ne 0 ""
+Po 0 -9.525
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "G" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "S" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.667 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.889 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.889 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.889 -10.541
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.889 -8.763
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.889 -10.541
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.667 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.667 -8.763
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.667 -10.541
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.889 -8.763
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.667 -8.763
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.667 -10.541
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.667 -12.319
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.889 -12.319
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.889 -12.319
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5494 1.5494 0 0 0
+Dr 1.4986 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.667 -12.319
+.ZoneConnection 2
+$EndPAD
+$SHAPE3D
+Na "smd/dpack_3.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE DPAKGDS-TV
+$MODULE DPAKGDS-TV-Q1
+Po 0 0 0 15 5597947D 00000000 ~~
+Li DPAKGDS-TV-Q1
+Kw CMS DPACK
+Sc 0
+AR /52DDB130
+Op 0 0 0
+.ZoneConnection 2
+T0 -0.127 -15.748 1.27 1.27 900 0.1524 N V 21 N "Q1"
+T1 0 -3.302 1.27 1.27 0 0.1524 N I 21 N "MOSFET_N"
+DS 5.715 -14.351 5.715 -2.413 0.127 21
+DS 5.715 -2.413 -5.715 -2.413 0.127 21
+DS -5.715 -2.413 -5.715 -14.351 0.127 21
+DS -5.715 -14.351 5.715 -14.351 0.127 21
+DS -1.27 -2.413 -1.27 1.905 0.127 21
+DS -1.27 1.905 -3.81 1.905 0.127 21
+DS -3.81 1.905 -3.81 -2.413 0.127 21
+DS 3.81 -2.413 3.81 1.905 0.127 21
+DS 3.81 1.905 1.27 1.905 0.127 21
+DS 1.27 1.905 1.27 -2.413 0.127 21
+$PAD
+Sh "D" R 10.668 8.89 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-000006"
+Po 0 -9.525
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "G" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "N-000004"
+Po -2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "S" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -0.889 -10.541
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0.889 -8.763
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0.889 -10.541
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.667 -8.763
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.667 -10.541
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -0.889 -8.763
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.667 -8.763
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.667 -10.541
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.667 -12.319
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -0.889 -12.319
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0.889 -12.319
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 1.5748 1.5748 0 0 0
+Dr 1.2446 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.667 -12.319
+.ZoneConnection 2
+$EndPAD
+$SHAPE3D
+Na "smd/dpack_3.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE DPAKGDS-TV-Q1
+$MODULE DPAKGDS-TV-SL
+Po 0 0 0 15 55AE522A 00000000 ~~
+Li DPAKGDS-TV-SL
+Kw CMS DPACK
+Sc 0
+AR /52DDB130
+Op 0 0 0
+.ZoneConnection 2
+T0 -0.127 -15.748 1.27 1.27 900 0.1524 N V 21 N "Q1"
+T1 0 -3.302 1.27 1.27 0 0.1524 N I 21 N "MOSFET_N"
+DS 5.715 -14.351 5.715 -2.413 0.127 21
+DS 5.715 -2.413 -5.715 -2.413 0.127 21
+DS -5.715 -2.413 -5.715 -14.351 0.127 21
+DS -5.715 -14.351 5.715 -14.351 0.127 21
+DS -1.27 -2.413 -1.27 1.905 0.127 21
+DS -1.27 1.905 -3.81 1.905 0.127 21
+DS -3.81 1.905 -3.81 -2.413 0.127 21
+DS 3.81 -2.413 3.81 1.905 0.127 21
+DS 3.81 1.905 1.27 1.905 0.127 21
+DS 1.27 1.905 1.27 -2.413 0.127 21
+$PAD
+Sh "D" R 10.668 8.89 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-000006"
+Po 0 -9.525
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "G" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "N-000004"
+Po -2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "S" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 7.62 7.62 0 0 0
+Dr 6.35 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -9.271
+.ZoneConnection 2
+$EndPAD
+$SHAPE3D
+Na "smd/dpack_3.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE DPAKGDS-TV-SL
+$MODULE DPAKGDS-TV-SL-Q1
+Po 0 0 0 15 55AE522A 00000000 ~~
+Li DPAKGDS-TV-SL-Q1
+Kw CMS DPACK
+Sc 0
+AR /52DDB130
+Op 0 0 0
+.ZoneConnection 2
+T0 -0.127 -15.748 1.27 1.27 900 0.1524 N V 21 N "Q1"
+T1 0 -3.302 1.27 1.27 0 0.1524 N I 21 N "MOSFET_N"
+DS 5.715 -14.351 5.715 -2.413 0.127 21
+DS 5.715 -2.413 -5.715 -2.413 0.127 21
+DS -5.715 -2.413 -5.715 -14.351 0.127 21
+DS -5.715 -14.351 5.715 -14.351 0.127 21
+DS -1.27 -2.413 -1.27 1.905 0.127 21
+DS -1.27 1.905 -3.81 1.905 0.127 21
+DS -3.81 1.905 -3.81 -2.413 0.127 21
+DS 3.81 -2.413 3.81 1.905 0.127 21
+DS 3.81 1.905 1.27 1.905 0.127 21
+DS 1.27 1.905 1.27 -2.413 0.127 21
+$PAD
+Sh "D" R 10.668 8.89 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-000006"
+Po 0 -9.525
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "G" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "N-000004"
+Po -2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "S" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 7.62 7.62 0 0 0
+Dr 6.35 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -9.271
+.ZoneConnection 2
+$EndPAD
+$SHAPE3D
+Na "smd/dpack_3.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE DPAKGDS-TV-SL-Q1
+$MODULE DPAKGDS-TVS
+Po 0 0 0 15 55B76047 00000000 ~~
+Li DPAKGDS-TVS
+Kw CMS DPACK
+Sc 0
+AR /52DDB130
+Op 0 0 0
+.ZoneConnection 2
+T0 -0.127 -15.748 1.27 1.27 900 0.1524 N V 21 N "Q1"
+T1 0 -3.302 1.27 1.27 0 0.1524 N I 21 N "MOSFET_N"
+DS 5.715 -14.351 5.715 -2.413 0.127 21
+DS 5.715 -2.413 -5.715 -2.413 0.127 21
+DS -5.715 -2.413 -5.715 -14.351 0.127 21
+DS -5.715 -14.351 5.715 -14.351 0.127 21
+DS -1.27 -2.413 -1.27 1.905 0.127 21
+DS -1.27 1.905 -3.81 1.905 0.127 21
+DS -3.81 1.905 -3.81 -2.413 0.127 21
+DS 3.81 -2.413 3.81 1.905 0.127 21
+DS 3.81 1.905 1.27 1.905 0.127 21
+DS 1.27 1.905 1.27 -2.413 0.127 21
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 3.048 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 3.048 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 3.048 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 3.048 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 3.048 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 1.016 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 1.016 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 1.016 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 1.016 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 1.016 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.032 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.032 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.032 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.032 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.032 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -1.016 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -1.016 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -1.016 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -1.016 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -1.016 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.032 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.032 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.032 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.032 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.032 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -3.048 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -3.048 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" R 10.668 8.89 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-000006"
+Po 0 -9.525
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "G" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "N-000004"
+Po -2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "S" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -3.048 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -3.048 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -3.048 -6.985
+.ZoneConnection 2
+$EndPAD
+$SHAPE3D
+Na "smd/dpack_3.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE DPAKGDS-TVS
+$MODULE DPAKGDS-TVS-Q1
+Po 0 0 0 15 55E9FED8 00000000 ~~
+Li DPAKGDS-TVS-Q1
+Kw CMS DPACK
+Sc 0
+AR /52DDB130
+Op 0 0 0
+.ZoneConnection 2
+T0 -0.127 -15.748 0.762 0.762 900 0.1524 N V 21 N "Q1"
+T1 0 -3.302 1.27 1.27 0 0.1524 N I 21 N "MOSFET_N"
+DS 5.715 -14.351 5.715 -2.413 0.127 21
+DS 5.715 -2.413 -5.715 -2.413 0.127 21
+DS -5.715 -2.413 -5.715 -14.351 0.127 21
+DS -5.715 -14.351 5.715 -14.351 0.127 21
+DS -1.27 -2.413 -1.27 1.905 0.127 21
+DS -1.27 1.905 -3.81 1.905 0.127 21
+DS -3.81 1.905 -3.81 -2.413 0.127 21
+DS 3.81 -2.413 3.81 1.905 0.127 21
+DS 3.81 1.905 1.27 1.905 0.127 21
+DS 1.27 1.905 1.27 -2.413 0.127 21
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -13.099
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -13.099
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -13.099
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -13.099
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -13.099
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -13.099
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -13.099
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -12.069
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -12.069
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -12.069
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -12.069
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -12.069
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -12.069
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -12.069
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" R 10.668 8.89 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-000006"
+Po 0 -9.525
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "G" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "N-000004"
+Po -2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "S" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -6.985
+.ZoneConnection 2
+$EndPAD
+$SHAPE3D
+Na "smd/dpack_3.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE DPAKGDS-TVS-Q1
+$MODULE DPAKGDS-TVSM
+Po 0 0 0 15 55B76047 00000000 ~~
+Li DPAKGDS-TVSM
+Kw CMS DPACK
+Sc 0
+AR /52DDB130
+Op 0 0 0
+.ZoneConnection 2
+T0 -0.127 -15.748 1.27 1.27 900 0.1524 N V 21 N "Q1"
+T1 0 -3.302 1.27 1.27 0 0.1524 N I 21 N "MOSFET_N"
+DS 5.715 -14.351 5.715 -2.413 0.127 21
+DS 5.715 -2.413 -5.715 -2.413 0.127 21
+DS -5.715 -2.413 -5.715 -14.351 0.127 21
+DS -5.715 -14.351 5.715 -14.351 0.127 21
+DS -1.27 -2.413 -1.27 1.905 0.127 21
+DS -1.27 1.905 -3.81 1.905 0.127 21
+DS -3.81 1.905 -3.81 -2.413 0.127 21
+DS 3.81 -2.413 3.81 1.905 0.127 21
+DS 3.81 1.905 1.27 1.905 0.127 21
+DS 1.27 1.905 1.27 -2.413 0.127 21
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 3.048 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 3.048 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 3.048 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 3.048 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 3.048 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 0 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 1.016 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 1.016 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 1.016 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 1.016 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 1.016 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.032 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.032 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.032 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.032 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po 2.032 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -1.016 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -1.016 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -1.016 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -1.016 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -1.016 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.032 -6.985
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.032 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.032 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.032 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -2.032 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -3.048 -9.017
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -3.048 -10.033
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" R 10.668 8.89 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-000006"
+Po 0 -9.525
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "G" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "N-000004"
+Po -2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "S" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -3.048 -8.001
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -3.048 -11.049
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.381 0 0
+At STD N 00A0FFFF
+Ne 3 "N-000006"
+Po -3.048 -6.985
+.ZoneConnection 2
+$EndPAD
+$SHAPE3D
+Na "smd/dpack_3.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE DPAKGDS-TVSM
+$MODULE DPAKGDS-TVSM-Q1
+Po 0 0 0 15 55EABB7B 00000000 ~~
+Li DPAKGDS-TVSM-Q1
+Kw CMS DPACK
+Sc 0
+AR /52DDB130
+Op 0 0 0
+.ZoneConnection 2
+T0 -0.127 -15.748 0.762 0.762 900 0.1524 N V 21 N "Q1"
+T1 0.01 -2.55 1.27 1.27 0 0.1524 N I 21 N "MOSFET_N"
+DS 5.73 -3.73 5.73 -14.35 0.127 21
+DS -5.68 -3.73 -5.68 -14.33 0.127 21
+DS 3.82 1.89 3.82 -3.71 0.127 21
+DS 1.28 1.9 1.28 -3.72 0.127 21
+DS -1.27 1.89 -1.27 -3.72 0.127 21
+DS -3.81 1.89 -3.81 -3.72 0.127 21
+DS 5.725 -3.733 -5.705 -3.733 0.127 21
+DS -5.715 -14.351 5.715 -14.351 0.127 21
+DS -1.27 1.905 -3.81 1.905 0.127 21
+DS 3.81 1.905 1.27 1.905 0.127 21
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -13.099
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -13.099
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -13.099
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -13.099
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -13.099
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -13.099
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -13.099
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 3.048 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 0 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 1.016 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po 2.032 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -1.016 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -2.032 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" R 10.668 8.89 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-000006"
+Po 0 -9.525
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "G" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "N-000004"
+Po -2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "S" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000006"
+Po -3.048 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$SHAPE3D
+Na "smd/dpack_3.wrl"
+Sc 1 1 1
+Of 0 0.04 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE DPAKGDS-TVSM-Q1
+$MODULE DPAKGDS-TVSM-Q2
+Po 0 0 0 15 55EABCE2 00000000 ~~
+Li DPAKGDS-TVSM-Q2
+Kw CMS DPACK
+Sc 0
+AR /52DDB130
+Op 0 0 0
+.ZoneConnection 2
+T0 -0.127 -15.748 0.762 0.762 900 0.1524 N V 21 N "Q2"
+T1 0 -2.57 1.27 1.27 0 0.1524 N I 21 N "MOSFET_N"
+DS 3.82 1.9 3.82 -3.72 0.127 21
+DS 1.27 1.9 1.27 -3.7 0.127 21
+DS -1.28 1.89 -1.28 -3.75 0.127 21
+DS -3.79 1.89 -3.79 -3.72 0.127 21
+DS 5.75 -3.73 5.75 -14.33 0.127 21
+DS -5.65 -3.73 -5.65 -14.33 0.127 21
+DS 5.715 -3.733 -5.715 -3.733 0.127 21
+DS -5.715 -14.351 5.715 -14.351 0.127 21
+DS -1.27 1.905 -3.81 1.905 0.127 21
+DS 3.81 1.905 1.27 1.905 0.127 21
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 3.058 -13.089
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 0.01 -13.089
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 1.026 -13.089
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 2.042 -13.089
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -1.006 -13.089
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -2.022 -13.089
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -3.038 -13.089
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -3.048 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -2.032 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -1.016 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 2.032 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 1.016 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 0 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 3.048 -12.069
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 3.048 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 3.048 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 3.048 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 3.048 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 3.048 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 0 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 0 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 0 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 0 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 0 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 1.016 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 1.016 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 1.016 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 1.016 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 1.016 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 2.032 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 2.032 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 2.032 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 2.032 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po 2.032 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -1.016 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -1.016 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -1.016 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -1.016 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -1.016 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -2.032 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -2.032 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -2.032 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -2.032 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -2.032 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -3.048 -9.017
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -3.048 -10.033
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" R 10.668 8.89 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-000007"
+Po 0 -9.525
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "G" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "N-000002"
+Po -2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "S" R 1.778 3.048 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 2.54 0
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -3.048 -8.001
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -3.048 -11.049
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$PAD
+Sh "D" C 0.762 0.762 0 0 0
+Dr 0.508 0 0
+At STD N 0040FFFF
+Ne 3 "N-000007"
+Po -3.048 -6.985
+.SolderMask 0.0254
+.ZoneConnection 2
+$EndPAD
+$SHAPE3D
+Na "smd/dpack_3.wrl"
+Sc 1 1 1
+Of 0 0.04 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE DPAKGDS-TVSM-Q2
+$EndLIBRARY
