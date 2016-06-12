@@ -1,0 +1,13 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"Q2,Q1";"DPAKGDS-TV";2;"MOSFET_N";;;
+2;"S1";"SM2112L";1;"Val**";;;
+3;"GND";"Pad-ThermVia-Gnd";1;"";;;
+4;"endcap";"endcap";1;"VAL**";;;
+5;"L1,L2";"inductor-coilcraft-xal1010-102";2;"INDUCTOR";;;
+6;",,,,,,,,,";"via";10;"";;;
+7;"D3,D4";"DO214";2;"ZENER";;;
+8;"R2,R1";"SM1206";2;"270";;;
+9;"D2,D1";"DO214";2;"DIODE";;;
+10;"R3,R4";"SM1206";2;"10K";;;
+11;"B+";"Pad-ThermVia";1;"";;;
+12;"mount";"1pin";1;"P***";;;

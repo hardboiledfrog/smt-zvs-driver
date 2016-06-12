@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Thu 03 Dec 2015 02:56:31 PM EST
+
+BeginCmp
+TimeStamp = /52DE4DA1;
+Reference = CT1;
+ValeurCmp = 6uF;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDB301;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = SMD_Packages:DO-214AC(SMA);
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDB383;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = SMD_Packages:DO-214AC(SMA);
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDB1BE;
+Reference = D3;
+ValeurCmp = ZENER;
+IdModule  = SMD_Packages:DO-214AC(SMA);
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDB1DC;
+Reference = D4;
+ValeurCmp = ZENER;
+IdModule  = SMD_Packages:DO-214AC(SMA);
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDAEDB;
+Reference = L1;
+ValeurCmp = 0.1uH;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDAEE7;
+Reference = L2;
+ValeurCmp = 0.1uH;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDB130;
+Reference = Q1;
+ValeurCmp = MOSFET_N;
+IdModule  = mystuff:DPAKGDS-Q1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDB13B;
+Reference = Q2;
+ValeurCmp = MOSFET_N;
+IdModule  = mystuff:DPAKGDS-Q2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDB77B;
+Reference = R1;
+ValeurCmp = 270;
+IdModule  = SMD_Packages:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDB78E;
+Reference = R2;
+ValeurCmp = 270;
+IdModule  = SMD_Packages:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDB210;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDB21A;
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = SMD_Packages:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /56607B76;
+Reference = R5;
+ValeurCmp = 0;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DDB829;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = SMD_Packages:SM2112L;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DE4DE3;
+Reference = WC1;
+ValeurCmp = WORK COIL;
+IdModule  = ;
+EndCmp
+
+EndListe
