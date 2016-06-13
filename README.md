@@ -4,14 +4,19 @@ My main design goal was a handheld battery powered induction coil. This design i
 such as loosening rusted nuts, heat treating small tool bits, brazing, soldering, or my favorite, heating a titanium nail.
 I used a popular ZVS circuit from this forum: http://4hv.org/e107_plugins/forum/forum_viewtopic.php?122354  Thanks Marko!
 
-This fits on a 2" diameter circular board glued to a 1" thick aluminum disc heatsink with Arctic Cooling's thermal epoxy. The
-driver connects to a tank circuit made up of 6uf - 10uf CD capacitors and a 4 turn 1/2" diameter work coil via (2) 1/4" brass
-busbars. I used (4) A123 LiFePo batteries for power as they have a very high discharge current rating and are currently the
-safest lithium battery tech available.
+This fits on a 2" diameter circular board glued to a 1" thick aluminum disc heatsink with Arctic Cooling's thermal epoxy.
+Anodizing the heatsink is highly recommended as the oxide layer is nonconductive. Otherwise it's difficult to epoxy the pcb
+to the heatsink without any shorts.
+
+The driver connects to a tank circuit made up of 6uf - 10uf CD capacitors and a 4 turn 1/2" diameter work coil via (2) 1/4"
+brass busbars. I used (4) A123 LiFePo batteries for power as they have a very high discharge current rating and are currently
+the safest lithium battery tech available.
 
 I bored out (paper thin in some areas, lol) a Sky Ray King flashlight and managed to cram everything in using 4 18650 size
 batteries. This will heat a Highly Educated Flux Titanium style nail to cherry red in about 10 seconds. Using the larger 26650
 cells the heat time reduces to less than half at the expense of extra bulk.
+
+The Kicad files with "mc" in the name are for a single sided metal core pcb which I have not tested yet.
 
 I have used https://www.itead.cc/open-pcb.html and http://dangerousprototypes.com/store/pcbs, the latter is Dirt Cheap Pcbs.
 I like Dirt Cheap as they offer 0.6mm (thinner = better heatsinking of FETs) at no extra charge and 2 oz. copper for $20 extra.
@@ -31,6 +36,69 @@ gnuplots showing power profiles while heating a 1/4" steel bolt, 3/8" steel bolt
 
 Sky Ray King mod and a host machined from aluminum pipe.
 ![Induction Heater](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/P1020694.JPG)
+
+##Links
+
+https://markobakula.wordpress.com/power-electronics/500w-royer-induction-heater/
+
+http://4hv.org/e107_plugins/forum/forum_viewtopic.php?122354.0
+
+http://4hv.org/e107_plugins/forum/forum_viewtopic.php?161797.post
+
+http://kaizerpowerelectronics.dk/general-electronics/royer-induction-heater/
+
+*Plus many more induction and zvs related threads on http://4hv.org
+
+http://www.observationsblog.com/sciencetechnologyexperiments/anodizing-and-dying-aluminum-without-battery-acid
+
+http://astro.neutral.org/anodise5.shtml
+
+http://www.thefintels.com/aer/homealuminumanodizing.htm
+
+http://www.caswellplating.com/
+
+http://kicad-pcb.org/
+
+*I recommend 2 oz copper for the pcb.
+
+https://www.itead.cc/open-pcb/pcb-prototyping.html
+
+http://dangerousprototypes.com/store/pcbs
+
+https://oshpark.com/
+
+http://fullnet.com/~tomg/gooteepc.htm#1
+
+https://retromaster.wordpress.com/pcb-making/
+
+http://www.instructables.com/id/Is-the-best-PCB-etchant-in-every-kitchen-/
+
+http://www.cnczone.com/forums/pcb-milling/93206-thermal-vias-filling-solder.html
+
+http://www.edn.com/electronics-blogs/the-workbench/4421218/PCB-layout-tips-for-thermal-vias
+
+http://circuitcalculator.com/wordpress/2006/03/12/pcb-via-calculator/
+
+https://www.digikey.com/en/articles/techzone/2010/dec/optimizing-pcb-thermal-performance-for-cree-xlamp-leds
+
+http://www.candlepowerforums.com/vb/showthread.php?332102-MCPCB-vs-regular-boring-old-double-layer-with-thermal-via-s&s=d60568c072328eab46158667b6c56ddd
+
+http://www.batteryspace.com/lifepo4-a123-26650-battery-pack-12-8v-2500mah-32wh-70a-rate-rechargeable-battery-module-with-solder-tabs.aspx
+
+http://www.batteryspace.com/batteryknowledge.aspx
+
+http://www.a123batteries.com/
+
+http://www.rclipos.com/A123_Packs.htm
+
+http://budgetlightforum.com/node/12445
+
+https://endless-sphere.com/forums/viewtopic.php?f=14&t=21231
+
+https://endless-sphere.com/forums/viewtopic.php?f=14&t=47900
+
+*I highly recommend a fuse installed on the battery pack: http://www.ebay.com/itm/111817931948
+
 
 
 ## Safety Notice and Disclaimer
