@@ -37,6 +37,69 @@ gnuplots showing power profiles while heating a 1/4" steel bolt, 3/8" steel bolt
 Sky Ray King mod and a host machined from aluminum pipe.
 ![Induction Heater](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/P1020694.JPG)
 
+##Links
+
+https://markobakula.wordpress.com/power-electronics/500w-royer-induction-heater/
+
+http://4hv.org/e107_plugins/forum/forum_viewtopic.php?122354.0
+
+http://4hv.org/e107_plugins/forum/forum_viewtopic.php?161797.post
+
+http://kaizerpowerelectronics.dk/general-electronics/royer-induction-heater/
+
+*Plus many more induction and zvs related threads on http://4hv.org
+
+http://www.observationsblog.com/sciencetechnologyexperiments/anodizing-and-dying-aluminum-without-battery-acid
+
+http://astro.neutral.org/anodise5.shtml
+
+http://www.thefintels.com/aer/homealuminumanodizing.htm
+
+http://www.caswellplating.com/
+
+http://kicad-pcb.org/
+
+*I recommend 2 oz copper for the pcb.
+
+https://www.itead.cc/open-pcb/pcb-prototyping.html
+
+http://dangerousprototypes.com/store/pcbs
+
+https://oshpark.com/
+
+http://fullnet.com/~tomg/gooteepc.htm#1
+
+https://retromaster.wordpress.com/pcb-making/
+
+http://www.instructables.com/id/Is-the-best-PCB-etchant-in-every-kitchen-/
+
+http://www.cnczone.com/forums/pcb-milling/93206-thermal-vias-filling-solder.html
+
+http://www.edn.com/electronics-blogs/the-workbench/4421218/PCB-layout-tips-for-thermal-vias
+
+http://circuitcalculator.com/wordpress/2006/03/12/pcb-via-calculator/
+
+https://www.digikey.com/en/articles/techzone/2010/dec/optimizing-pcb-thermal-performance-for-cree-xlamp-leds
+
+http://www.candlepowerforums.com/vb/showthread.php?332102-MCPCB-vs-regular-boring-old-double-layer-with-thermal-via-s&s=d60568c072328eab46158667b6c56ddd
+
+http://www.batteryspace.com/lifepo4-a123-26650-battery-pack-12-8v-2500mah-32wh-70a-rate-rechargeable-battery-module-with-solder-tabs.aspx
+
+http://www.batteryspace.com/batteryknowledge.aspx
+
+http://www.a123batteries.com/
+
+http://www.rclipos.com/A123_Packs.htm
+
+http://budgetlightforum.com/node/12445
+
+https://endless-sphere.com/forums/viewtopic.php?f=14&t=21231
+
+https://endless-sphere.com/forums/viewtopic.php?f=14&t=47900
+
+*I highly recommend a fuse installed on the battery pack: http://www.ebay.com/itm/111817931948
+
+
 
 ## Safety Notice and Disclaimer
 All typical precautions regarding induction heaters and lithium batteries apply!
