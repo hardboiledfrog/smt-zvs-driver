@@ -13,6 +13,10 @@ I bored out (paper thin in some areas, lol) a Sky Ray King flashlight and manage
 batteries. This will heat a Highly Educated Flux Titanium style nail to cherry red in about 10 seconds. Using the larger 26650
 cells the heat time reduces to less than half at the expense of extra bulk.
 
+I have used https://www.itead.cc/open-pcb.html and http://dangerousprototypes.com/store/pcbs, the latter is Dirt Cheap Pcbs.
+I like Dirt Cheap as they offer 0.6mm (thinner = better heatsinking of FETs) at no extra charge and 2 oz. copper for $20 extra.
+
+
 
 700W Battery Powered Induction Heater
 ![Induction Heater](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/IMG_20160608_134850.jpg)
