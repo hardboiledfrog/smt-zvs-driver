@@ -1,5 +1,7 @@
 # smt-zvs-driver
 
+![ZVS Driver](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/IMG_20160604_143417.jpg)
+
 My main design goal was a handheld battery powered induction coil. This design is for short duty cycle use ( 10 - 15 seconds)
 such as loosening rusted nuts, heat treating small tool bits, brazing, soldering, or my favorite, heating a titanium nail.
 I used a popular ZVS circuit from this forum: http://4hv.org/e107_plugins/forum/forum_viewtopic.php?122354  Thanks Marko!
