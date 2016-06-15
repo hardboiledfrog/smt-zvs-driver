@@ -26,18 +26,18 @@ I like Dirt Cheap as they offer 0.6mm (thinner = better heatsinking of FETs) at 
 
 
 700W Battery Powered Induction Heater
-![Induction Heater](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/IMG_20160608_134850.jpg)
+![module](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/IMG_20160608_134850.jpg)
 ZVS driver with 8uf and a 4 turn copper tube work coil
 
 gnuplots showing power profiles while heating a 1/4" steel bolt, 3/8" steel bolt, and a 6.4gm titanium nail.
-![Induction Heater](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/ih-VAW.png)
+![plot](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/ih-VAW.png)
 
 
-![Induction Heater](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/ih-VA.png)
+![plot](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/ih-VA.png)
 
 
 Sky Ray King mod and a host machined from aluminum pipe.
-![Induction Heater](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/P1020694.JPG)
+![SRK](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/P1020694.JPG)
 
 ##Links
 
