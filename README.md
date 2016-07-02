@@ -39,6 +39,8 @@ gnuplots showing power profiles while heating a 1/4" steel bolt, 3/8" steel bolt
 Sky Ray King mod and a host machined from aluminum pipe.
 ![SRK](https://raw.github.com/hardboiledfrog/smt-zvs-driver/master/images/P1020694.JPG)
 
+Images also hosted on https://hardboiledfrog00.imgur.com/
+
 ##Links
 
 https://markobakula.wordpress.com/power-electronics/500w-royer-induction-heater/
