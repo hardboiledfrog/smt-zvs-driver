@@ -11,8 +11,9 @@ Anodizing the heatsink is highly recommended as the oxide layer is nonconductive
 to the heatsink without any shorts.
 
 The driver connects to a tank circuit made up of 6uf - 10uf CD capacitors and a 4 turn 1/2" diameter work coil via (2) 1/4"
-brass busbars. I used (4) A123 LiFePo batteries for power as they have a very high discharge current rating and are currently
-the safest lithium battery tech available.
+brass busbars. This tank runs at about 137KHz and works very well for my work piece size. Coil size will be limited by frequency, larger coil equals lower resonance frequency which cause the input inductors to saturate easier (over heat). You can offset this with lower capacitance again within limits. Larger work pieces with larger power requirements will need larger inductors.
+
+I used (4) A123 LiFePo batteries for power as they have a very high discharge current rating and are currently the safest lithium battery tech available. I don't recommend other lithium batteries as I feel they don't have comparable high current drain capabilities and are still too unstable... Youtube is full of video examples.
 
 I bored out (paper thin in some areas, lol) a Sky Ray King flashlight and managed to cram everything in using 4 18650 size
 batteries. This will heat a Highly Educated Flux Titanium style nail to cherry red in about 10 seconds. Using the larger 26650
@@ -52,6 +53,8 @@ http://4hv.org/e107_plugins/forum/forum_viewtopic.php?161797.post
 http://kaizerpowerelectronics.dk/general-electronics/royer-induction-heater/
 
 *Plus many more induction and zvs related threads on http://4hv.org
+
+http://konsys-t.tanger.cz/files/proceedings/17/reports/2688.pdf
 
 http://www.observationsblog.com/sciencetechnologyexperiments/anodizing-and-dying-aluminum-without-battery-acid
 
@@ -101,10 +104,17 @@ https://endless-sphere.com/forums/viewtopic.php?f=14&t=21231
 
 https://endless-sphere.com/forums/viewtopic.php?f=14&t=47900
 
-*I highly recommend a fuse installed on the battery pack: http://www.ebay.com/itm/111817931948
-
 
 
 ## Safety Notice and Disclaimer
+
 All typical precautions regarding induction heaters and lithium batteries apply!
-Keep away from rings, jewelry, and electronic equipment when operating.
+Keep away from medical devices, metallic implants, rings, jewelry, and electronic equipment when operating.
+
+*I highly recommend a fuse installed on the battery pack: http://www.ebay.com/itm/111817931948
+
+Not responsible for any Darwin Award winning self-induced injuries.
+If you don't have the necessary skills then pay someone who has to build it for you and teach you how to operate it safely.
+Support your local geeks.  :)
+
+hbf LLC
