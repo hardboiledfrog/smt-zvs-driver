@@ -10,7 +10,7 @@ This fits on a 2" diameter circular board glued to a 1" thick aluminum disc heat
 Anodizing the heatsink is highly recommended as the oxide layer is nonconductive. Otherwise it's difficult to epoxy the pcb
 to the heatsink without any shorts.
 
-The driver connects to a tank circuit made up of 6uf - 10uf CD capacitors and a 4 turn 1/2" diameter work coil via (2) 1/4"
+The driver connects to a tank circuit made up of 8 - 1uf CD capacitors and a 4 turn 1/2" diameter work coil via (2) 1/4"
 brass busbars. This tank runs at about 137KHz and works very well for my work piece size. Coil size will be limited by frequency, larger coil equals lower resonance frequency which cause the input inductors to saturate easier (over heat). You can offset this with lower capacitance again within limits. Larger work pieces with larger power requirements will need larger inductors.
 
 I used (4) A123 LiFePo batteries for power as they have a very high discharge current rating and are currently the safest lithium battery tech available. I don't recommend other lithium batteries as I feel they don't have comparable high current drain capabilities and are still too unstable... Youtube is full of video examples.
