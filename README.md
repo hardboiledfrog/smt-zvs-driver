@@ -64,7 +64,7 @@ http://www.thefintels.com/aer/homealuminumanodizing.htm
 
 http://www.caswellplating.com/
 
-http://kicad-pcb.org/
+http://kicad.org/
 
 *I recommend 2 oz copper for the pcb.
 
